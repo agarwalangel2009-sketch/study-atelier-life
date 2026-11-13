@@ -1,0 +1,20 @@
+
+{
+  "name": "The Study Atelier",
+  "short_name": "Study Atelier",
+  "description": "Your JEE, NID and student lifestyle companion.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f5ef",
+  "theme_color": "#dfe8df",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    }
+  ]
+}
